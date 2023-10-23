@@ -1,18 +1,18 @@
 h1 {
-    color: black;
+    color: rgb(255, 255, 255);
 }
 h2{
-    color: black;
+    color: rgb(255, 255, 255);
 }
 h3{
-    color: black;
+    color: rgb(255, 255, 255);
 }
 h4 {
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 body {
-    background-color: deeppink;
+    background-color: rgb(0, 0, 0);
 
     text-align: center;
 }
@@ -28,16 +28,16 @@ body {
 
 }
 .brilho {
-   color: deeppink;
+   color: rgb(255, 255, 255);
     font-style: italic
 }
 .lista {
         display: inline-block ;
         padding: 5%;
         margin-right: 10%;
-        color: fuchsia;
+        color: rgb(154, 99, 255);
         padding: 5%;
-        border-color: black;
+        border-color: rgb(255, 255, 255);
         border-width: 30px;
         border-style: solid;
         border-radius: 12px 50px 2px 120px;
@@ -46,12 +46,18 @@ body {
 nav a{
     text-transform: uppercase;
     text-align: center;
-    color: white;
-    font-weight: 300;
+    color: rgb(154, 99, 255);
+    font-weight: 200;
     font-size: 100%;
     text-decoration: none ;
     border-color: ;
     border-width: 10px;
     border-style: solid; 
     backgound-color: pink;
+}
+.Introdução {
+    color: white
+}
+.motivo {
+    color:white
 }
